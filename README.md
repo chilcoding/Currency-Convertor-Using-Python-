@@ -1,6 +1,6 @@
 # Currency-Converter-Using-Python
 This is a python project where you can covert indian currency with any other currency
-youtube link https://youtu.be/Y4heonBRjeQ
+
 
 Code Screenshot
 ![Code ss 1](https://github.com/justcoding5/Currency-Converter-Using-Python-/assets/111654139/f647599e-81b2-438e-8508-6acaa4cfdd46)
